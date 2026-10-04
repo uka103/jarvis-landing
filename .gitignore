@@ -1,0 +1,11 @@
+# Sensitive files - never commit
+wallet.json
+config.json
+state.db
+state.db-wal
+state.db-shm
+logs/
+*.log
+*.err
+automaton.json
+wallet.json
