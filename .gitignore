@@ -8,4 +8,20 @@ logs/
 *.log
 *.err
 automaton.json
-wallet.json
+*.key
+*.pem
+.env
+.env.*
+*_SECRET*
+*secret*
+
+# Not for public hosting - only index.html is published
+SOUL.md
+constitution.md
+heartbeat.yml
+skills/
+pages/
+templates/
+*_template.md
+code_delivery_template.md
+invoice_template.md
